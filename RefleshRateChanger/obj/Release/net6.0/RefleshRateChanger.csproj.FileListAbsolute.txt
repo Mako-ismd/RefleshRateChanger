@@ -1,0 +1,15 @@
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\bin\Release\net6.0\RefleshRateChanger.exe
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\bin\Release\net6.0\RefleshRateChanger.deps.json
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\bin\Release\net6.0\RefleshRateChanger.runtimeconfig.json
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\bin\Release\net6.0\RefleshRateChanger.dll
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\bin\Release\net6.0\RefleshRateChanger.pdb
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\obj\Release\net6.0\RefleshRateChanger.csproj.AssemblyReference.cache
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\obj\Release\net6.0\RefleshRateChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\obj\Release\net6.0\RefleshRateChanger.AssemblyInfoInputs.cache
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\obj\Release\net6.0\RefleshRateChanger.AssemblyInfo.cs
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\obj\Release\net6.0\RefleshRateChanger.csproj.CoreCompileInputs.cache
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\obj\Release\net6.0\RefleshRateChanger.dll
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\obj\Release\net6.0\refint\RefleshRateChanger.dll
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\obj\Release\net6.0\RefleshRateChanger.pdb
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\obj\Release\net6.0\RefleshRateChanger.genruntimeconfig.cache
+C:\Users\minto\source\repos\RefleshRateChanger\RefleshRateChanger\obj\Release\net6.0\ref\RefleshRateChanger.dll
