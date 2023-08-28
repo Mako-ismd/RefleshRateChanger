@@ -1,16 +1,20 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-static void Main(string[] args)
+class Program
 {
-    if (args.Length == 0)
+    static void Main(string[] args)
     {
-        Console.WriteLine("Put the target refresh rate in the argument");
-        return;
+        if (args.Length == 0)
+        {
+            Console.WriteLine("Put the target refresh rate in the argument");
+            Console.ReadKey();
+            return;
+        }
+        var changer = new DisplayChanger();
+        var targetRate = int.Parse(args[0]);
+        if (targetRate <= changer.GetMaxRefreshRate()) changer.ChangeRefreshRate(targetRate);
     }
-    var changer = new DisplayChanger();
-    var targetRate = int.Parse(args[0]);
-    if (targetRate <= changer.GetMaxRefreshRate()) changer.ChangeRefreshRate(targetRate);
 }
 
 public class DisplayChanger
